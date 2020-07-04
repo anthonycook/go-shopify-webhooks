@@ -13,6 +13,7 @@
 *.dll
 *.so
 *.dylib
+*shopifyHooks
 
 # Test binary, built with `go test -c`
 *.test
