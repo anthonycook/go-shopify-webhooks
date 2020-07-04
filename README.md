@@ -1,6 +1,6 @@
 # Go Shopify Webhooks
 
-Shopify Webhooks is a Go library for receiving Shopify webhooks and saving them to a Postgres database.
+Go Shopify Webhooks is a Go library for receiving Shopify webhooks and saving them to a Postgres database.
 
 ## Installation
 
